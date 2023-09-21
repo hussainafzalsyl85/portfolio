@@ -44,7 +44,7 @@ body{
     color:#ffffff;
     font-weight: 700;
     margin-top: 20px;
-    animation-name: banner_heading;
+    /* animation-name: banner_heading; */
     animation-duration: .5s;
     animation-iteration-count: infinite;
 }
